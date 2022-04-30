@@ -37,5 +37,11 @@ module.exports = {
       },
     },
   },
+  variants: {
+    extend: {
+      borderStyle: ['responsive', 'hover'],
+      borderWidth: ['responsive', 'hover'],
+    },
+  },
   plugins: [],
 }
