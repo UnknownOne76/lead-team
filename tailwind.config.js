@@ -40,7 +40,7 @@ module.exports = {
   variants: {
     extend: {
       borderStyle: ['responsive', 'hover'],
-      borderWidth: ['responsive', 'hover'],
+      borderWidth: ['hover'],
     },
   },
   plugins: [],
