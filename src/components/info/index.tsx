@@ -92,6 +92,8 @@ export const Information: FC = (): ReactElement => {
         getInfos();
     }, [tailbar, zorilgo, zuils, cont]);
 
+
+
     return (
         <>
             <div className='flex flex-row justify-start w-full m-5 p-10'>
